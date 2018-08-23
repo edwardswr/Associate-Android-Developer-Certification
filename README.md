@@ -61,8 +61,8 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 - [ ] Given a problem description, replicate the failure
   - [ ] [Experts App Clinic:Best Practices when building apps for billions][testing_and_debugging_experts_app_clinic]
 - [ ] Use the system log to output debug information
-     - [ ] [[Android Developer Site] Write and View Logs with Logcat](https://developer.android.com/studio/debug/am-logcat.html)
-     - [ ] [ [Udacity Developing Android Apps] Logging](https://youtu.be/i8CELIzOXCs)
+     - [ x] [[Android Developer Site] Write and View Logs with Logcat](https://developer.android.com/studio/debug/am-logcat.html)
+     - [ x] [ [Udacity Developing Android Apps] Logging](https://youtu.be/i8CELIzOXCs)
 - [ ] Debug and fix an application crash (uncaught exception)
    - [ ] [[Android Developer Site] Debug your App](https://developer.android.com/studio/debug/index.html)
 - [ ] Debug and fix an activity lifecycle issue
@@ -80,7 +80,7 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 ](https://codelabs.developers.google.com/codelabs/constraint-layout/#0)
   
 - [ ] Describe interactions between UI, background task, and data persistence
-- [ ] Construct a layout using XML or Java code
+- [x ] Construct a layout using XML or Java code
   - [ ] [ [Techotopia] Creating an Android User Interface in Java Code](http://www.techotopia.com/index.php/Creating_an_Android_User_Interface_in_Java_Code)
 - [ ] Create a custom view class and add it to a layout
   - [ ] [[Team Treehouse Course] Custom Views in Android](https://teamtreehouse.com/library/custom-views-in-android)
